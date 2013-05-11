@@ -7,6 +7,6 @@
 class android_file_transfer {
   package { 'AndroidFileTransfer':
     provider => 'appdmg',
-    source   => 'http://commondatastorage.googleapis.com/incrediblebee/apps/Archiver/Archiver.zip'
+    source   => 'https://dl.google.com/dl/androidjumper/mtp/current/androidfiletransfer.dmg'
   }
 }
